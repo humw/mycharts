@@ -9,6 +9,6 @@ entries:
     name: rancherhelper
     type: application
     urls:
-    - https://humingwei.github.io/mycharts/rancherhelper-0.1.1.tgz
+    - https://humw.github.io/mycharts/rancherhelper-0.1.1.tgz
     version: 0.1.1
 generated: "2022-11-24T14:52:18.926714+08:00"
