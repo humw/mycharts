@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  rancherhelper:
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2022-11-24T14:52:18.928255+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 1a3fe1bc6f7c07c64bc4b6b0b1faf5278146ea87363572719c646c6890d8eb6d
+    name: rancherhelper
+    type: application
+    urls:
+    - https://humingwei.github.io/mycharts/rancherhelper-0.1.1.tgz
+    version: 0.1.1
+generated: "2022-11-24T14:52:18.926714+08:00"
